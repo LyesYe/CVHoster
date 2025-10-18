@@ -1,6 +1,7 @@
 {
   "version": 2,
-  "public": true,
+  "buildCommand": "echo 'No build step required for static site'",
+  "outputDirectory": ".",
   "headers": [
     {
       "source": "/(.*)",
